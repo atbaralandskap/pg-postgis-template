@@ -1,12 +1,11 @@
-
-# pg-postgis-template
+﻿# pg-postgis-template
 
 A minimal, opinionated template for PostgreSQL + PostGIS projects,
 designed for reproducible GIS and spatial analysis workflows in R.
 
 ## What this repo is
 - A reusable project skeleton
-- A standard schema layout (`staging`, `core`, `out`, `meta`)
+- A standard schema layout (`staging`, `core`, `out`, `meta`, `h3`)
 - SQL bootstraps for PostGIS-enabled databases
 - R helpers for clean database connections
 
